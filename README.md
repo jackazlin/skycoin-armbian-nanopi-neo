@@ -10,4 +10,5 @@ Pre-configured Armbian image with DHCP enabled. Running Armbian_5.65_Nanopineo_D
 
 ## Continue from here to finish off the system. 
 
-All credits to the original author of [this guide](https://github.com/skycoin/skywire/wiki/Skyminer-Skywire-installation-guide#troubleshooting).
+All credits to the original author of [this guide](https://github.com/skycoin/skywire/wiki/Skyminer-Skywire-installation-guide#troubleshooting), and to all the other ideas I picked up scouring message boards.
+
